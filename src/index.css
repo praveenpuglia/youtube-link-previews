@@ -1,0 +1,5 @@
+/* Include normalize.css from cdn */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css");
+* {
+  box-sizing: border-box;
+}
